@@ -99,9 +99,9 @@ const Banner = () => {
         backgroundImage:
           "url('https://aeccglobal.com.bd/images/2023/08/25/study-in-canada.webp')",
       }}
-      className="h-72 md:h-screen bg-contain bg-no-repeat"
+      className=" md:h-screen md:bg-contain bg-no-repeat"
     >
-      <section className="max-w-7xl mx-auto md:mt-16 ps-3">
+      <section className="max-w-7xl mx-auto mt-24 ps-3">
         <div className="">
           <h1 className="text-[36px] md:text-[148px] font-bold text-gray-800">
             <span ref={career} className="inline-block">
@@ -124,13 +124,15 @@ const Banner = () => {
         </div>
         <div>
           <div className="block md:flex items-center justify-between mt-12 md:mt-24 space-y-3 text-center">
-            <div className="flex items-center space-x-4 w-1/2">
+            <div className="flex items-center space-x-4 md:w-1/2 md:justify-normal justify-center">
               <div className="num px-3 md:px-6 py-3 md:py-6 bg-gray-900 text-white rounded-full md:text-3xl">
                 50+
               </div>
-              <div className="md:text-2xl text-gray-600">Country Alumni</div>
+              <div className="text-md md:text-2xl text-gray-600">
+                Country Alumni
+              </div>
             </div>
-            <div className="block md:flex items-center md:w-1/2 space-x-4">
+            <div className="block md:flex items-center md:w-1/2 space-x-4 md:pb-0 pb-3">
               <p className="md:text-2xl mr-2 mb-3 md:mb-0">
                 We provide digital services, study abroads tips & Visa.
               </p>
