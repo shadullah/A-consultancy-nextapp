@@ -142,13 +142,13 @@ const Banner = () => {
                   ref={text1Ref}
                   className="absolute text-center w-full left-0 top-1/2 -translate-y-1/2"
                 >
-                  Case Studies
+                  Let&apos;s talk
                 </span>
                 <span
                   ref={text2Ref}
                   className="absolute text-center w-full left-0 top-1/2 -translate-y-1/2"
                 >
-                  Case Studies
+                  Let&apos;s talk
                 </span>
               </button>
             </div>
