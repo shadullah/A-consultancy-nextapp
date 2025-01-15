@@ -9,7 +9,7 @@ Consultancy trainning center landing page which is built using React, NextJs, Ty
 Watch Live demo here:
 
 ```bash
-https://e-commerce-front-blond-three.vercel.app/
+https://a-consultancy-nextapp.vercel.app/
 ````
 
 ## Installation
