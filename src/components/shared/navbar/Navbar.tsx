@@ -32,9 +32,15 @@ const Navbar = () => {
         </Link>
         <div className="hidden md:block">
           <ul className="flex items-center gap-4">
-            <li className="hover:text-gray-600 cursor-pointer">About</li>
-            <li className="hover:text-gray-600 cursor-pointer">Services</li>
-            <li className="hover:text-gray-600 cursor-pointer">Contact</li>
+            <li className="hover:text-gray-600 cursor-pointer text-2xl">
+              About
+            </li>
+            <li className="hover:text-gray-600 cursor-pointer text-2xl">
+              Services
+            </li>
+            <li className="hover:text-gray-600 cursor-pointer text-2xl">
+              Contact
+            </li>
           </ul>
         </div>
 
