@@ -2,15 +2,13 @@
 
 Consultancy trainning center landing page which is built using React, NextJs, Typescript, Tailwind Css ,React-icons many more.
 
-````
-
 ## Live Demo
 
 Watch Live demo here:
 
 ```bash
 https://a-consultancy-nextapp.vercel.app/
-````
+```
 
 ## Installation
 
