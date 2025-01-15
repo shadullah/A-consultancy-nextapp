@@ -1,0 +1,87 @@
+{
+    "services": [
+      {
+        "_id": "1",
+        "title": "Visa Services",
+        "img": "/visa-services.jpeg",
+        "tag": "visa",
+        "latest": true,
+        "description": "Professional visa application assistance",
+        "features": [
+          "Student Visa Processing",
+          "Work Visa Consultation",
+          "Tourist Visa Applications",
+          "Business Visa Support",
+          "Family Reunion Visa",
+          "Migration Visa Services"
+        ]
+      },
+      {
+        "_id": "2",
+        "title": "Work Abroad Programs",
+        "img": "/work-abroad.webp",
+        "tag": "work",
+        "latest": true,
+        "description": "International career opportunities",
+        "features": [
+          "Job Placement Services",
+          "Skills Assessment",
+          "Resume Building",
+          "Interview Preparation",
+          "Work Permit Assistance",
+          "Career Counseling"
+        ]
+      },
+      {
+        "_id": "3",
+        "title": "Global Consultancy",
+        "img": "/consultancy.jpg",
+        "tag": "consultancy",
+        "latest": false,
+        "description": "Expert guidance for international opportunities",
+        "features": [
+          "Education Counseling",
+          "Financial Planning",
+          "Legal Documentation",
+          "Settlement Services",
+          "Cultural Training",
+          "Relocation Support"
+        ]
+      }
+    ],
+    "tags": [
+      {
+        "_id": "tag1",
+        "tagName": "Visa Services",
+        "slug": "visa"
+      },
+      {
+        "_id": "tag2",
+        "tagName": "Work Abroad",
+        "slug": "work"
+      },
+      {
+        "_id": "tag3",
+        "tagName": "Consultancy",
+        "slug": "consultancy"
+      }
+    ],
+    "regions": [
+      {
+        "name": "Europe",
+        "countries": ["UK", "Germany", "France", "Spain", "Italy"]
+      },
+      {
+        "name": "North America",
+        "countries": ["USA", "Canada"]
+      },
+      {
+        "name": "Asia Pacific",
+        "countries": ["Australia", "New Zealand", "Japan", "Singapore"]
+      },
+      {
+        "name": "Middle East",
+        "countries": ["UAE", "Qatar", "Saudi Arabia"]
+      }
+    ]
+  }
